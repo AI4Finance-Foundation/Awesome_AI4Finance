@@ -2,12 +2,11 @@
 
 ## Criteria of Selection and Evaluation
 
-   Well, we are NOT aiming for completeness or authority.  
+   Well, we are NOT aiming for completeness or authority.  It is a byproduct from our weekly meetings, we hope it would be useful for newcommers.
    
-   Our selection procedure is quite similar to the peer-review process: 1). recomendation from our community members, 2). final conclusion by core members after some quantitative survey.
+   Our selection procedure is academic: 1). recomendation from our community members, 2). evaluation by core members after quantitative survey, 3). discussion and evalutation from our weekly meetings.
    
-   The goal is to provide a useful list for newcommers.
-
+   
 ## Financial Big Data
 
 ### Financial Data Source
