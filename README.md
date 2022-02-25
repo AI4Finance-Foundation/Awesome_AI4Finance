@@ -17,6 +17,7 @@
 |[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: ||
 |[yfinance](https://github.com/ranaroussi/yfinance)| 6.7k | :star::star::star: ||
 |[CCXT](https://github.com/ccxt/ccxt) | 23.4k | :star::star::star::star::star: | ||
+|[WRDS](https://github.com/wharton/wrds) | 85 | :star::star: ||
 |[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: ||
 
 
