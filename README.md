@@ -1,8 +1,6 @@
 # Awesome AI4Finance
 
-## Artificial Intelligence
-
-### Financial Big Data
+## Financial Big Data
 
 |  Project | Stars | Recommendation | Description |
 |---|---|---|-------------|
@@ -19,6 +17,9 @@
 |[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: | |
 |[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: ||
 |[yfinance](https://github.com/ranaroussi/yfinance)| 6.7k | :star::star::star: ||
+
+
+## Artificial Intelligence
 
 ### Machine Learning
 
