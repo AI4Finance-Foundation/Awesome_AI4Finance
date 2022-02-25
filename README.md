@@ -12,7 +12,7 @@
 
 ## Finance
 
-### Intepretation & Explainability 
+### Intepretability & Explainability 
 
 ### Trading
 
