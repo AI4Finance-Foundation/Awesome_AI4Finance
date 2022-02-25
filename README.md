@@ -2,7 +2,7 @@
 
 ## Criteria of Selection and Evaluation
 
-   Well, we are NOT aiming for completeness or authority.  It is a byproduct from our weekly meetings, we hope it would be useful for newcommers.
+   Well, it is a byproduct from our weekly meetings, may be useful for newcommers.
    
    Our selection procedure is academic: 1). recomendation (via PRs) from our community members, 2). evaluation by core members after survey, 3). discussion and evalutation at our weekly meetings.
    
@@ -91,7 +91,14 @@
 
 ### Intepretation & Explainability 
 
+
 ### Trading Platform
+
+|  Project | Stars | Recommendation | Description |
+|----|----|----|----|
+|[QuantConnect](https://github.com/QuantConnect/Lean) | 5.9k | :star::star::star::star: | |
+|[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 900+ | :star::star::star: | |
+
 ______________________
 
 
