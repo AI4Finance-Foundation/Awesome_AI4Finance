@@ -1,4 +1,4 @@
-# Awesome Financial Machine Learning
+# Awesome AI4Finance
   
   Welcome your inputs.
 
