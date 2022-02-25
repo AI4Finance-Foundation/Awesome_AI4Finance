@@ -77,7 +77,7 @@
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 |[NumPy](https://github.com/numpy/numpy)| 19.7k | :star::star::star::star::star: | |
-|[Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/financial-services/#solutions)|  | :star::star::star: | |
+|[Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/financial-services/#solutions)| :heavy_multiplication_x: | :star::star::star: | |
 
 ### Intepretation & Explainability 
 
