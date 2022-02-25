@@ -12,12 +12,12 @@
 
 ### Reinforcement Learning
 
-|  Project | Stars | Description | Rating |
-|----|----|-------------|----|
-|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k | | :star::star::star::star::star: |
-|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | | :star::star::star::star::star: |
-|[tensortrade](https://github.com/tensortrade-org/tensortrade) | 3.8k | | :star::star::star::star: |
-|[DRL-Ensemble-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)| 1k | | :star::star::star::star: |
+|  Project | Stars | Rating | Description |
+|----|----|----|----|
+|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k | :star::star::star::star::star: | |
+|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | :star::star::star::star::star: | |
+|[tensortrade](https://github.com/tensortrade-org/tensortrade) | 3.8k | :star::star::star::star: | |
+|[DRL-Ensemble-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)| 1k | :star::star::star::star: | |
 
 ### Others
 
