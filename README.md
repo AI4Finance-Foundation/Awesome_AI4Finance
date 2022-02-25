@@ -1,5 +1,13 @@
 # Awesome AI4Finance
 
+## Criteria of Selection and Evaluation
+
+   Well, we are NOT aiming for completeness or authority.  
+   
+   Our selection procedure is quite similar to the peer-review process: 1). recomendation from our community members, 2). final conclusiong by core members after some quantitative survey.
+   
+   The goal is to provide a useful list for newcommers.
+
 ## Financial Big Data
 
 ### Financial Data Source
