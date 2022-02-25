@@ -23,8 +23,10 @@
 
 |  Project | Stars | Rating | Description |
 |------------------------|----|-----|-------------------------------------------------------------------------|
+|[ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)| 5.3k | :star::star::star::star::star: | |
 |[Qlib](https://github.com/microsoft/qlib)| 8.1k | :star::star::star::star: | |
 |[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k | :star::star::star::star: | |
+|[Advances in Financial ML Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)| 1.2k | :star::star::star::star: | |
 |[stockpredictionai](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star: | |
 |[MLFinLab](https://github.com/hudson-and-thames/mlfinlab) | 2.8k | :star::star: | |
 
@@ -45,6 +47,10 @@
 ## Finance
 
 ### Stock Recommendation
+
+|  Project | Stars | Rating | Description |
+|----|----|----|----|
+|[Ensemble](https://github.com/AI4Finance-Foundation/Machine-Learning-for-Stock-Recommendation-IEEE-2018)| 25 | :star::star: | |
 
 ### Trading
 
