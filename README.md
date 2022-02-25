@@ -16,7 +16,7 @@
 |[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 250+ | :star::star::star::star::star: ||
 |[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: ||
 |[yfinance](https://github.com/ranaroussi/yfinance)| 6.7k | :star::star::star: ||
-|[CCXT](https://github.com/ccxt/ccxt) | 23.4k | | :star::star::star::star::star: ||
+|[CCXT](https://github.com/ccxt/ccxt) | 23.4k | :star::star::star::star::star: | ||
 |[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: ||
 
 
