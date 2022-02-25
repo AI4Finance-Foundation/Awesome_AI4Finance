@@ -7,7 +7,7 @@
 ### Machine Learning
 
 |  Project | Stars | Description | Rating |
-|----|----|-------------|
+|----|----|-------------|----|
 |[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k |  | :star::star::star::star::star: |
 
 ### Reinforcement Learning
