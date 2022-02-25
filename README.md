@@ -32,6 +32,7 @@
 |[Qlib](https://github.com/microsoft/qlib)| 8.1k | :star::star::star::star: | |
 |[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k | :star::star::star::star: | |
 |[Advances in Financial ML Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)| 1.2k | :star::star::star::star: | |
+|[TF Quant Finance](https://github.com/google/tf-quant-finance)| 3k | :star::star::star: | |
 |[ML and DS Blueprints for Finance](https://github.com/tatsath/fin-ml)| 200+ | :star::star::star: | |
 |[stockpredictionai](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star: | |
 |[MLFinLab](https://github.com/hudson-and-thames/mlfinlab) | 2.8k | :star::star: | |
@@ -67,6 +68,10 @@
 |[PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)| 2.6k | :star::star::star::star: | |
 
 ### High Performance Computing
+|  Project | Stars | Recommendation | Description |
+|----|----|----|----|
+|[NumPy](https://github.com/numpy/numpy)| 19.7k | :star::star::star::star::star: | |
+|[Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/financial-services/#solutions)| / | :star::star::star: | |
 
 ### Intepretation & Explainability 
 
