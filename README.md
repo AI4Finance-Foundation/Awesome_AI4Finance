@@ -27,7 +27,7 @@
 ### Machine Learning
 
 |  Project | Stars | Recommendation | Description |
-|---|---|:---:|-------------|
+|---|---|---|-------------|
 |[ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)| 5.3k | :star::star::star::star::star: | |
 |[Qlib](https://github.com/microsoft/qlib)| 8.1k | :star::star::star::star: | |
 |[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k | :star::star::star::star: | |
