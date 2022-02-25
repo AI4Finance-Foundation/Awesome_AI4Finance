@@ -4,7 +4,7 @@
 
 ### Financial Big Data
 
-|  Project | Stars | Rating | Description |
+|  Project | Stars | Recommendation | Description |
 |---|---|---|-------------|
 |[TA-Lib](https://github.com/mrjbq7/ta-lib)| 6.3k | :star::star::star::star::star: | |
 |[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 250+ | :star::star::star::star::star: | |
@@ -14,7 +14,7 @@
 ### Financial Data Source
 
 
-|  Project | Stars | Rating | Description |
+|  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 |[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: | |
 |[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: ||
@@ -22,7 +22,7 @@
 
 ### Machine Learning
 
-|  Project | Stars | Rating | Description |
+|  Project | Stars | Recommendation | Description |
 |------------------------|----|-----|-------------------------------------------------------------------------|
 |[ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)| 5.3k | :star::star::star::star::star: | |
 |[Qlib](https://github.com/microsoft/qlib)| 8.1k | :star::star::star::star: | |
@@ -34,7 +34,7 @@
 
 ### Reinforcement Learning
 
-|  Project | Stars | Rating | Description |
+|  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 |[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k | :star::star::star::star::star: | |
 |[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | :star::star::star::star::star: | |
@@ -43,14 +43,14 @@
 
 ### Others
 
-|  Project | Stars | Rating | Description |
+|  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 
 ## Finance
 
 ### Stock Recommendation
 
-|  Project | Stars | Rating | Description |
+|  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 |[Ensemble](https://github.com/AI4Finance-Foundation/Machine-Learning-for-Stock-Recommendation-IEEE-2018)| 25 | :star::star: | |
 
@@ -58,7 +58,7 @@
 
 ### Portfolio Management
 
-|  Project | Stars | Rating | Description |
+|  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 |[PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)| 2.6k | :star::star::star::star: | |
 
