@@ -33,6 +33,7 @@
 |[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k | :star::star::star::star: | |
 |[Advances in Financial ML Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)| 1.2k | :star::star::star::star: | |
 |[TF Quant Finance](https://github.com/google/tf-quant-finance)| 3k | :star::star::star: | |
+|[AlphaPy](https://github.com/ScottfreeLLC/AlphaPy)| 700+ | :star::star::star: | |
 |[ML and DS Blueprints for Finance](https://github.com/tatsath/fin-ml)| 200+ | :star::star::star: | |
 |[stockpredictionai](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star: | |
 |[MLFinLab](https://github.com/hudson-and-thames/mlfinlab) | 2.8k | :star::star: | |
@@ -45,6 +46,7 @@
 |[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | :star::star::star::star::star: | |
 |[tensortrade](https://github.com/tensortrade-org/tensortrade) | 3.8k | :star::star::star::star: | |
 |[DRL-Ensemble-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)| 1k | :star::star::star::star: | |
+|[gym-anytrading](https://github.com/AminHP/gym-anytrading) | 950+ | :star::star::star: | |
 
 ### Others
 
@@ -61,6 +63,10 @@
 
 ### Trading
 
+|  Project | Stars | Recommendation | Description |
+|----|----|----|----|
+|[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 900+ | :star::star::star::star: | |
+
 ### Portfolio Management
 
 |  Project | Stars | Recommendation | Description |
@@ -71,7 +77,7 @@
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 |[NumPy](https://github.com/numpy/numpy)| 19.7k | :star::star::star::star::star: | |
-|[Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/financial-services/#solutions)| / | :star::star::star: | |
+|[Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/financial-services/#solutions)|  | :star::star::star: | |
 
 ### Intepretation & Explainability 
 
