@@ -6,7 +6,7 @@
 
 |  Project | Stars | Rating | Description |
 |----|----|----|----|
-|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 200+ | :star::star::star::star::star: | |
+|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 250+ | :star::star::star::star::star: | |
 
 ### Machine Learning
 
