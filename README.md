@@ -4,13 +4,16 @@
 
 ### Financial Big Data
 
-### Supervised Learning
+### Machine Learning
+
+|  Project | Stars | Description |
+|----|----|-------------|
+|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k |  |
 
 ### Reinforcement Learning
 
-|  Name  |  star_num |  Intro |
+|  Project | Stars | Description |
 |----|----|-------------|
-|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k |  |
 |[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k| |
 
 ### Others
