@@ -4,7 +4,7 @@
 
    Well, we are NOT aiming for completeness or authority.  It is a byproduct from our weekly meetings, we hope it would be useful for newcommers.
    
-   Our selection procedure is academic: 1). recomendation from our community members, 2). evaluation by core members after quantitative survey, 3). discussion and evalutation at our weekly meetings.
+   Our selection procedure is academic: 1). recomendation from our community members, 2). evaluation by core members after survey, 3). discussion and evalutation at our weekly meetings.
    
    
 ## Financial Big Data
