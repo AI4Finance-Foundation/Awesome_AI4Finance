@@ -6,17 +6,17 @@
 
 ### Machine Learning
 
-|  Project | Stars | Description |
+|  Project | Stars | Description | Rating |
 |----|----|-------------|
-|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k |  |
+|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k |  | :star::star::star::star::star: |
 
 ### Reinforcement Learning
 
-|  Project | Stars | Description | rating |
+|  Project | Stars | Description | Rating |
 |----|----|-------------|----|
-|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k | | 5:star: |
-|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | | 5:star: |
-|[tensortrade](https://github.com/tensortrade-org/tensortrade) | 1.5k | | 4:star: |
+|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k | | :star::star::star::star::star: |
+|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | | :star::star::star::star::star: |
+|[tensortrade](https://github.com/tensortrade-org/tensortrade) | 1.5k | | :star::star::star::star: |
 
 ### Others
 
