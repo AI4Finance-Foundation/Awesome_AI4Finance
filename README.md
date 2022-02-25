@@ -13,12 +13,12 @@
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 250+ | :star::star::star::star::star: ||
-|[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: ||
-|[yfinance](https://github.com/ranaroussi/yfinance)| 6.7k | :star::star::star: ||
-|[CCXT](https://github.com/ccxt/ccxt) | 23.4k | :star::star::star::star::star: | ||
-|[WRDS](https://github.com/wharton/wrds) | 85 | :star::star: ||
-|[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: ||
+|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 250+ | :star::star::star::star::star: | direct data support for FinRL|
+|[yfinance](https://github.com/ranaroussi/yfinance)| 6.7k | :star::star::star: | easy to connect|
+|[CCXT](https://github.com/ccxt/ccxt) | 23.4k | :star::star::star::star::star: | crypto trading |
+|[WRDS](https://github.com/wharton/wrds) | 85 | :star::star: | academic usage|
+|[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: | |
+|[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: | |
 
 
 
