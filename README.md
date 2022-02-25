@@ -5,7 +5,7 @@
 ### Financial Big Data
 
 |  Project | Stars | Rating | Description |
-|----|----|----|----|
+|---|---|---|-------------|
 |[TA-Lib](https://github.com/mrjbq7/ta-lib)| 6.3k | :star::star::star::star::star: | |
 |[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 250+ | :star::star::star::star::star: | |
 |[Clairvoyant](https://github.com/anfederico/Clairvoyant)| 2.3k | :star::star::star: ||
