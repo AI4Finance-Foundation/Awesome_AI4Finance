@@ -14,7 +14,9 @@
 
 |  Project | Stars | Description |
 |----|----|-------------|
-|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k| |
+|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k | |
+|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | |
+|[RLTrader](https://github.com/notadamking/RLTrader) | 1.5k | |
 
 ### Others
 
