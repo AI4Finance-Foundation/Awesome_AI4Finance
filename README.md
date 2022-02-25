@@ -65,7 +65,7 @@
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 900+ | :star::star::star::star: | |
+|[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 900+ | :star::star::star: | |
 
 ### Portfolio Management
 
