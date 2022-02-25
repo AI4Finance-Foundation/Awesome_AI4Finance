@@ -18,7 +18,7 @@
 |------------------------|----|-----|-------------------------------------------------------------------------|
 |[Qlib](https://github.com/microsoft/qlib)| 8.1k | :star::star::star::star: | |
 |[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k | :star::star::star::star: | |
-|[stockpredictionai](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star::star: | |
+|[stockpredictionai](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star: | |
 |[MLFinLab](https://github.com/hudson-and-thames/mlfinlab) | 2.8k | :star::star: | |
 
 ### Reinforcement Learning
