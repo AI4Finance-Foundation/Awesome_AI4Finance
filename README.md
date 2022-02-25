@@ -81,6 +81,7 @@
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 |[PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)| 2.6k | :star::star::star::star: | |
+|[OLPS](https://github.com/OLPS/OLPS)| 279 | :star::star: | On-Line Portfolio Selection |
 
 ### High Performance Computing
 |  Project | Stars | Recommendation | Description |
