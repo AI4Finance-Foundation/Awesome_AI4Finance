@@ -1,6 +1,13 @@
 # Awesome AI4Finance
   
-  Welcome your inputs.
+  
+## Supervised Learning
+
+## Reinforcement Learning
+
+## Intepretation & Explainability 
+
+## 
 
 ## Introductory
 [1] [Practical deep reinforcement learning approach for stock trading](https://arxiv.org/abs/1811.07522). NeurIPS Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy, 2018.
