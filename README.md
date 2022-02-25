@@ -1,6 +1,5 @@
 # Awesome AI4Finance
-  
-  
+
 ## Supervised Learning
 
 ## Reinforcement Learning
@@ -13,7 +12,29 @@
 
 ## High Performance Computing
 
-## Introductory
+______________________
+
+## Artificial Intelligence
+
+### Supervised Learning
+
+### Reinforcement Learning
+
+### Others
+
+## Finance
+
+### Intepretation & Explainability 
+
+### Trading
+
+### Portfolio Management
+
+### High Performance Computing
+
+
+
+### Introductory
 [1] [Practical deep reinforcement learning approach for stock trading](https://arxiv.org/abs/1811.07522). NeurIPS Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy, 2018.
 
 [2] [FinRL](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3955949): Deep reinforcement learning framework to automate trading in quantitative finance, ACM International Conference on AI in Finance, ICAIF 2021.
