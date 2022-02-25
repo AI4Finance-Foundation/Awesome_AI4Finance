@@ -8,7 +8,6 @@
 |----|----|----|----|
 |[TA-Lib](https://github.com/mrjbq7/ta-lib)| 6.3k | :star::star::star::star::star: | |
 |[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 250+ | :star::star::star::star::star: | |
-|[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: ||
 |[Clairvoyant](https://github.com/anfederico/Clairvoyant)| 2.3k | :star::star::star: ||
 |[FinanceDatabase](https://github.com/JerBouma/FinanceDatabase)| 950+ | :star::star::star: ||
 
@@ -17,6 +16,7 @@
 
 |  Project | Stars | Rating | Description |
 |----|----|----|----|
+|[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: ||
 |[yfinance](https://github.com/ranaroussi/yfinance)| 6.7k | :star::star::star: ||
 
 ### Machine Learning
