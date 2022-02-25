@@ -4,12 +4,17 @@
 
 ### Financial Big Data
 
+|  Project | Stars | Rating | Description |
+|----|----|----|----|
+|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 200+ | :star::star::star::star::star: | |
+
 ### Machine Learning
 
 |  Project | Stars | Rating | Description |
 |----|----|----|----|
-|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k | :star::star::star::star::star: | |
+
 |[Qlib](https://github.com/microsoft/qlib)| 8.1k | :star::star::star::star: | |
+|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k | :star::star::star::star: | |
 
 ### Reinforcement Learning
 
