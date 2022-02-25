@@ -8,6 +8,7 @@
 |----|----|----|----|
 |[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 250+ | :star::star::star::star::star: | |
 |[Clairvoyant](https://github.com/anfederico/Clairvoyant)| 2.3k | :star::star::star: ||
+|[FinanceDatabase](https://github.com/JerBouma/FinanceDatabase)| 950+ | :star::star::star: ||
 
 ### Machine Learning
 
@@ -15,7 +16,7 @@
 |------------------------|----|-----|-------------------------------------------------------------------------|
 |[Qlib](https://github.com/microsoft/qlib)| 8.1k | :star::star::star::star: | |
 |[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k | :star::star::star::star: | |
-|[stock](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star::star::star: | |
+|[stockpredictionai](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star: | |
 
 ### Reinforcement Learning
 
