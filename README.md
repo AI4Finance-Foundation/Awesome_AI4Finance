@@ -12,11 +12,11 @@
 
 ### Reinforcement Learning
 
-|  Project | Stars | Description |
+|  Project | Stars | Description | rating |
 |----|----|-------------|
-|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k | |
-|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | |
-|[RLTrader](https://github.com/notadamking/RLTrader) | 1.5k | |
+|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k | | 5:star: |
+|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | | 5:star: |
+|[tensortrade](https://github.com/tensortrade-org/tensortrade) | 1.5k | | 4:star: |
 
 ### Others
 
