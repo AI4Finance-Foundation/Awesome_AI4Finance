@@ -1,26 +1,31 @@
 # Awesome AI4Finance
 
-**Disclaimer: Nothing herein is financial advice, and NOT a recommendation to trade real money. Please use common sense and always first consult a professional before trading or investing.**
-
 ## Artificial Intelligence
 
-### Big Data
+### Financial Big Data
 
 ### Supervised Learning
 
 ### Reinforcement Learning
 
+|  Name  |  star_num |  Intro |
+|----|----|-------------|
+|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k |  |
+|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k| |
+
 ### Others
 
 ## Finance
 
-### Intepretability & Explainability 
+### Stock Recommendation
 
 ### Trading
 
 ### Portfolio Management
 
 ### High Performance Computing
+
+### Intepretation & Explainability 
 
 ______________________
 
