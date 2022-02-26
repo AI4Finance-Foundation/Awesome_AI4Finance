@@ -9,7 +9,7 @@
    
 ## Financial Big Data
 
-### Financial Data Source
+### Data Source
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
@@ -22,7 +22,7 @@
 
 
 
-### Financial Features and Technical Indicators
+### Features and Technical Indicators
 
 |  Project | Stars | Recommendation | Description |
 |---|---|---|-------------|
