@@ -17,8 +17,9 @@
 |[yfinance](https://github.com/ranaroussi/yfinance)| 6.7k | :star::star::star: | easy to connect|
 |[CCXT](https://github.com/ccxt/ccxt) | 23.4k | :star::star::star::star::star: | crypto trading |
 |[WRDS](https://github.com/wharton/wrds) | 85 | :star::star: | academic usage|
+|[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: | stock markets, forex, bitcoins and options |
 |[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: | |
-|[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: | |
+
 
 
 
