@@ -55,7 +55,7 @@
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 |[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.4k | :star::star::star::star::star: | The first open-source framework to demonstrate the great potential of applying deep reinforcement learning in quantitative finance.|
-|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | :star::star::star::star::star: | |
+|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | :star::star::star::star::star: | Scalable and elastic deep reinforcement learning library using PyTorch. |
 |[tensortrade](https://github.com/tensortrade-org/tensortrade) | 3.8k | :star::star::star::star: | |
 |[DRL-Ensemble-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)| 1k | :star::star::star::star: | |
 |[gym-anytrading](https://github.com/AminHP/gym-anytrading) | 950+ | :star::star::star: | |
