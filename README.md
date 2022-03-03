@@ -9,6 +9,8 @@
    
 ## Financial Big Data
 
+Giller, Graham L. Adventures in Financial Data Science: The empirical properties of financial data and some other things that interested me. Vol. 1. Giller Investments (New Jersey), LLC, 2020.
+
 ### Data Source
 
 |  Project | Stars | Recommendation | Description |
