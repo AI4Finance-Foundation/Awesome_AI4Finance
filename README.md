@@ -56,7 +56,7 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.5k | :star::star::star::star::star: | The first open-source framework to demonstrate the great potential of applying deep reinforcement learning in quantitative finance.|
+|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 3.5k | :star::star::star::star::star: | The first open-source project for financial reinforcement learning.|
 |[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 1.7k | :star::star::star::star::star: | Scalable and elastic deep reinforcement learning library using PyTorch. |
 |[tensortrade](https://github.com/tensortrade-org/tensortrade) | 3.8k | :star::star::star::star: | |
 |[DRL-Ensemble-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)| 1k | :star::star::star::star: | |
