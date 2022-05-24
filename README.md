@@ -15,7 +15,7 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 340+ | :star::star::star::star::star: | meta universe data for finance markets|
+|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 340+ | :star::star::star::star::star: | meta universe for financial markets|
 |[CCXT](https://github.com/ccxt/ccxt) | 23.4k | :star::star::star::star::star: | crypto trading |
 |[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: | stock markets, forex, bitcoins and options |
 |[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: | |
