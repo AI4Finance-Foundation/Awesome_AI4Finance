@@ -104,6 +104,13 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 |[QuantConnect](https://github.com/QuantConnect/Lean) | 5.9k | :star::star::star::star: | |
 |[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 900+ | :star::star::star: | |
 
+### Rendering Tools
+| Project | Stars | Recommendation | Description |
+|----|----|----|----|
+|[TradingGym](https://github.com/Yvictor/TradingGym) | 1k | :star::star::star: | "A toolkit for training and backtesting the reinforcement learning algorithms". Has pretty good dynamic rendering. |
+|[mplfinance](https://github.com/matplotlib/mplfinance) | 2.1k | :star::star::star: | Using Matplotlib to visualize financial data and market data |
+| [Rendering using Matplotlib and Gym](https://towardsdatascience.com/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4) | - | :star::star::star: | A blog written by the main contributor of TensorTrading |
+
 ______________________
 
 
