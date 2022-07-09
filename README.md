@@ -15,7 +15,7 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 340+ | :star::star::star::star::star: | meta universe for financial markets|
+|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 370+ | :star::star::star::star::star: | meta universe for financial markets|
 |[CCXT](https://github.com/ccxt/ccxt) | 23.4k | :star::star::star::star::star: | crypto trading |
 |[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: | stock markets, forex, bitcoins and options |
 |[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: | CN stocks|
@@ -56,7 +56,7 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 5.0k | :star::star::star::star::star: | The first open-source project for financial reinforcement learning.|
+|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 5.8k | :star::star::star::star::star: | The first open-source project for financial reinforcement learning.|
 |[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 2.0k | :star::star::star::star::star: | Scalable and elastic deep reinforcement learning library using PyTorch. |
 |[tensortrade](https://github.com/tensortrade-org/tensortrade) | 3.8k | :star::star::star::star: | |
 |[DRL-Ensemble-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)| 1k | :star::star::star::star: | |
