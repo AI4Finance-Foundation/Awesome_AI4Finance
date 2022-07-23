@@ -15,14 +15,14 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 370+ | :star::star::star::star::star: | meta universe for financial markets|
-|[CCXT](https://github.com/ccxt/ccxt) | 23.4k | :star::star::star::star::star: | crypto trading |
-|[StockSharp](https://github.com/StockSharp/StockSharp)| 4.7k | :star::star::star::star: | stock markets, forex, bitcoins and options |
-|[TuShare](https://github.com/waditu/tushare)| 11.4k | :star::star::star: | CN stocks|
-|[yfinance](https://github.com/ranaroussi/yfinance)| 6.7k | :star::star::star: | easy to connect|
-|[Binance](https://github.com/binance/binance-spot-api-docs) | 2.2k | :star::star::star: | crypto|
-|[Alpaca](https://github.com/alpacahq/marketstore) |1.5k| :star::star::star: | free stock trading |
-|[WRDS](https://github.com/wharton/wrds) | 85 | :star::star: | academic usage|
+|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 380+ | :star::star::star::star::star: | meta universe for financial markets|
+|[CCXT](https://github.com/ccxt/ccxt) | 25.2k | :star::star::star::star::star: | crypto trading |
+|[StockSharp](https://github.com/StockSharp/StockSharp)| 5k | :star::star::star::star: | stock markets, forex, bitcoins and options |
+|[TuShare](https://github.com/waditu/tushare)| 11.7k | :star::star::star: | CN stocks|
+|[yfinance](https://github.com/ranaroussi/yfinance)| 7.3k | :star::star::star: | easy to connect|
+|[Binance](https://github.com/binance/binance-spot-api-docs) | 2.6k | :star::star::star: | crypto|
+|[Alpaca](https://github.com/alpacahq/marketstore) |1.6k| :star::star::star: | free stock trading |
+|[WRDS](https://github.com/wharton/wrds) | 88 | :star::star: | academic usage|
 
 
 
