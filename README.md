@@ -42,15 +42,15 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |---|---|---|-------------|
-|[ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)| 5.3k | :star::star::star::star::star: | |
-|[Qlib](https://github.com/microsoft/qlib)| 8.1k | :star::star::star::star: | |
-|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 4.9k | :star::star::star::star: | |
-|[Advances in Financial ML Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)| 1.2k | :star::star::star::star: | |
-|[TF Quant Finance](https://github.com/google/tf-quant-finance)| 3k | :star::star::star: | |
-|[AlphaPy](https://github.com/ScottfreeLLC/AlphaPy)| 700+ | :star::star::star: | |
-|[ML and DS Blueprints for Finance](https://github.com/tatsath/fin-ml)| 200+ | :star::star::star: | |
-|[stockpredictionai](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star: | |
-|[MLFinLab](https://github.com/hudson-and-thames/mlfinlab) | 2.8k | :star::star: | |
+|[ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)| 6k | :star::star::star::star::star: | A book shows how ML can add value to algorithmic trading strategies in a practical yet comprehensive way|
+|[Qlib](https://github.com/microsoft/qlib)| 9.4k | :star::star::star::star: | An AI-oriented quantitative investment platform with full ML pipeline|
+|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 5.4k | :star::star::star::star: | Machine learning and deep learning models for Stock forecasting|
+|[TF Quant Finance](https://github.com/google/tf-quant-finance)| 3k | :star::star::star: | A TensorFlow library for quantitative finance by Google|
+|[Advances in Financial ML Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)| 1.3k | :star::star::star: | Experimental solutions to selected exercises from the book Advances in Financial Machine Learning by Marcos Lopez De Prado|
+|[AlphaPy](https://github.com/ScottfreeLLC/AlphaPy)| 700+ | :star::star::star: | A machine learning framework for both speculators and data scientists|
+|[ML and DS Blueprints for Finance](https://github.com/tatsath/fin-ml)| 200+ | :star::star::star: | Code to the case studies in the book *Machine Learning and Data Science Blueprints for Finance*|
+|[stockpredictionai](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star: | A notebook of complete process for predicting stock price movements|
+|[MLFinLab](https://github.com/hudson-and-thames/mlfinlab) | 2.8k | :star::star: | Using ML to design strategies. Now close source, codes no longer available|
 
 ### Reinforcement Learning
 
