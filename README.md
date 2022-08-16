@@ -15,14 +15,14 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 380+ | :star::star::star::star::star: | meta universe for financial markets|
-|[CCXT](https://github.com/ccxt/ccxt) | 25.2k | :star::star::star::star::star: | crypto trading |
-|[StockSharp](https://github.com/StockSharp/StockSharp)| 5k | :star::star::star::star: | stock markets, forex, bitcoins and options |
-|[TuShare](https://github.com/waditu/tushare)| 11.7k | :star::star::star: | CN stocks|
-|[yfinance](https://github.com/ranaroussi/yfinance)| 7.3k | :star::star::star: | easy to connect|
-|[Binance](https://github.com/binance/binance-spot-api-docs) | 2.6k | :star::star::star: | crypto|
-|[Alpaca](https://github.com/alpacahq/marketstore) |1.6k| :star::star::star: | free stock trading |
-|[WRDS](https://github.com/wharton/wrds) | 88 | :star::star: | academic usage|
+|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 400+ | :star::star::star::star::star: | a metaverse for financial deep reinforcement learning. Now providing dynamic market environments for stock, cryptocurrency, forex, paper/live trading, etc.|
+|[CCXT](https://github.com/ccxt/ccxt) | 25.4k | :star::star::star::star::star: | a JavaScript/Python/PHP crypto trading API |
+|[StockSharp](https://github.com/StockSharp/StockSharp)| 5.1k | :star::star::star::star: | algorithmic trading for stock markets, forex, bitcoins and options |
+|[TuShare](https://github.com/waditu/tushare)| 11.7k | :star::star::star: | crawling historical data of CN stocks|
+|[yfinance](https://github.com/ranaroussi/yfinance)| 7.5k | :star::star::star: | provide market historical data, easy to connect and use|
+|[Binance](https://github.com/binance) | 2.7k | :star::star::star: | a well developed crypto trading platform|
+|[Alpaca](https://github.com/alpacahq/marketstore) |1.6k| :star::star::star: | API for free stock trading, supporting paper/live trading|
+|[WRDS](https://github.com/wharton/wrds) | 88 | :star::star: | a python data access library for academic usage|
 
 
 
