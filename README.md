@@ -42,13 +42,13 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |---|---|---|-------------|
-|[ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)| 6k | :star::star::star::star::star: | A book shows how ML can add value to algorithmic trading strategies in a practical yet comprehensive way|
+|[ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)| 6.0k | :star::star::star::star::star: | A book shows how ML can add value to algorithmic trading strategies in a practical yet comprehensive way|
 |[Qlib](https://github.com/microsoft/qlib)| 9.4k | :star::star::star::star: | An AI-oriented quantitative investment platform with full ML pipeline|
 |[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)| 5.4k | :star::star::star::star: | Machine learning and deep learning models for Stock forecasting|
-|[TF Quant Finance](https://github.com/google/tf-quant-finance)| 3k | :star::star::star: | A TensorFlow library for quantitative finance by Google|
-|[Advances in Financial ML Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)| 1.3k | :star::star::star: | Experimental solutions to selected exercises from the book Advances in Financial Machine Learning by Marcos Lopez De Prado|
+|[TF Quant Finance](https://github.com/google/tf-quant-finance)| 3.0k | :star::star::star: | A TensorFlow library for quantitative finance by Google|
+|[Adv_Fin_ML_Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)| 1.3k | :star::star::star: | Experimental solutions to selected exercises from the book Advances in Financial Machine Learning by Marcos Lopez De Prado|
 |[AlphaPy](https://github.com/ScottfreeLLC/AlphaPy)| 700+ | :star::star::star: | A machine learning framework for both speculators and data scientists|
-|[ML and DS Blueprints for Finance](https://github.com/tatsath/fin-ml)| 200+ | :star::star::star: | Code to the case studies in the book *Machine Learning and Data Science Blueprints for Finance*|
+|[fin-ml](https://github.com/tatsath/fin-ml)| 200+ | :star::star::star: | Code to the case studies in the book *Machine Learning and Data Science Blueprints for Finance*|
 |[stockpredictionai](https://github.com/borisbanushev/stockpredictionai)| 3.3k | :star::star: | A notebook of complete process for predicting stock price movements|
 |[MLFinLab](https://github.com/hudson-and-thames/mlfinlab) | 2.8k | :star::star: | Using ML to design strategies. Now close source, codes no longer available|
 
@@ -56,11 +56,11 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 5.8k | :star::star::star::star::star: | The first open-source project for financial reinforcement learning.|
-|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 2.0k | :star::star::star::star::star: | Scalable and elastic deep reinforcement learning library using PyTorch. |
-|[tensortrade](https://github.com/tensortrade-org/tensortrade) | 3.8k | :star::star::star::star: | |
-|[DRL-Ensemble-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)| 1k | :star::star::star::star: | |
-|[gym-anytrading](https://github.com/AminHP/gym-anytrading) | 950+ | :star::star::star: | |
+|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 5.9k | :star::star::star::star::star: | The first open-source project for financial reinforcement learning, provide full pipeline of using DRL in financial tasks|
+|[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 2.2k | :star::star::star::star::star: | Scalable and elastic deep reinforcement learning library using PyTorch|
+|[tensortrade](https://github.com/tensortrade-org/tensortrade) | 3.9k | :star::star::star::star: | An RL framework for training, evaluating, and deploying robust trading agents|
+|[FinRL-Live-Trading](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)| 1.2k | :star::star::star::star: | Ensemble strategy and live trading using DRL|
+|[gym-anytrading](https://github.com/AminHP/gym-anytrading) | 1.1k | :star::star::star: | OpenAI Gym trading environment|
 
 ### Others
 
@@ -73,26 +73,26 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[Ensemble](https://github.com/AI4Finance-Foundation/Machine-Learning-for-Stock-Recommendation-IEEE-2018)| 25 | :star::star: | |
+|[ML_for_Stock_Recomm](https://github.com/AI4Finance-Foundation/Machine-Learning-for-Stock-Recommendation-IEEE-2018)| 31 | :star::star: | A Practical Machine Learning Approach for Dynamic Stock Recommendation|
 
 ### Trading
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 900+ | :star::star::star: | |
+|[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 1.1k | :star::star::star: | Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.|
 
 ### Portfolio Management
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)| 2.6k | :star::star::star::star: | |
-|[OLPS](https://github.com/OLPS/OLPS)| 279 | :star::star: | On-Line Portfolio Selection |
+|[PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)| 3.0k | :star::star::star::star: | Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity|
+|[OLPS](https://github.com/OLPS/OLPS)| 299 | :star::star: | A toolbox for On-Line Portfolio Selection |
 
 ### High Performance Computing
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[NumPy](https://github.com/numpy/numpy)| 19.7k | :star::star::star::star::star: | |
-|[Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/financial-services/#solutions)| :heavy_minus_sign: | :star::star::star: | |
+|[NumPy](https://github.com/numpy/numpy)| 21.2k | :star::star::star::star::star: | The fundamental package for scientific computing with Python, used by many other python libraries|
+|[Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/financial-services/#solutions)| :heavy_minus_sign: | :star::star::star: | Azure high-performance computing (HPC) for financial services, provided by Microsoft Azure|
 
 ### Intepretation & Explainability 
 
@@ -101,8 +101,8 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[QuantConnect](https://github.com/QuantConnect/Lean) | 5.9k | :star::star::star::star: | |
-|[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 900+ | :star::star::star: | |
+|[QuantConnect](https://github.com/QuantConnect/Lean) | 6.4k | :star::star::star::star: | An algorithmic trading engine built for easy strategy research, backtesting and live trading|
+|[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 1.1k | :star::star::star: | Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data|
 
 ### Rendering Tools
 | Project | Stars | Recommendation | Description |
