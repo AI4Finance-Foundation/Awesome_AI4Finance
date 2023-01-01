@@ -4,7 +4,7 @@
 
    Well, it is a byproduct from our weekly meetings, may be useful for newcomers.
    
-   Our selection procedure is academic: 1). recommendation (via PRs/MRs) from our community members, 2). evaluation by core members after survey, 3). discussion and evalutation at our weekly meetings.
+   The selection procedure is as follows: 1). recommendation from our community members, 2). evaluation by core members after survey, 3). discussion and evalutation at our weekly meetings.
    
    
 ## Financial Big Data
