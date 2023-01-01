@@ -16,13 +16,13 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
 |[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 530+ | :star::star::star::star::star: | A metaverse for financial deep reinforcement learning. Now providing dynamic market environments for stock, cryptocurrency, forex, paper/live trading, etc.|
-|[CCXT](https://github.com/ccxt/ccxt) | 25.4k | :star::star::star::star::star: | A JavaScript/Python/PHP crypto trading API |
-|[StockSharp](https://github.com/StockSharp/StockSharp)| 5.1k | :star::star::star::star: | Algorithmic trading for stock markets, forex, bitcoins and options |
-|[TuShare](https://github.com/waditu/tushare)| 11.7k | :star::star::star: | Crawling historical data of CN stocks|
-|[yfinance](https://github.com/ranaroussi/yfinance)| 7.5k | :star::star::star: | Provide market historical data, easy to connect and use|
+|[CCXT](https://github.com/ccxt/ccxt) | 26.7k | :star::star::star::star::star: | A JavaScript/Python/PHP crypto trading API |
+|[StockSharp](https://github.com/StockSharp/StockSharp)| 5.3k | :star::star::star::star: | Algorithmic trading for stock markets, forex, bitcoins and options |
+|[TuShare](https://github.com/waditu/tushare)| 11.9k | :star::star::star: | Crawling historical data of CN stocks|
+|[yfinance](https://github.com/ranaroussi/yfinance)| 8.4k | :star::star::star: | Provide market historical data, easy to connect and use|
 |[Binance](https://github.com/binance) | 2.7k | :star::star::star: | A well developed crypto trading platform|
-|[Alpaca](https://github.com/alpacahq/marketstore) |1.6k| :star::star::star: | API for free stock trading, supporting paper/live trading|
-|[WRDS](https://github.com/wharton/wrds) | 88 | :star::star: | A python data access library for academic usage|
+|[Alpaca](https://github.com/alpacahq/marketstore) |1.7k| :star::star::star: | API for free stock trading, supporting paper/live trading|
+|[WRDS](https://github.com/wharton/wrds) | 96 | :star::star: | A python data access library for academic usage|
 
 
 
