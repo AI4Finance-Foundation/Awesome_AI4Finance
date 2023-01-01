@@ -15,7 +15,7 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 400+ | :star::star::star::star::star: | A metaverse for financial deep reinforcement learning. Now providing dynamic market environments for stock, cryptocurrency, forex, paper/live trading, etc.|
+|[FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta)| 530+ | :star::star::star::star::star: | A metaverse for financial deep reinforcement learning. Now providing dynamic market environments for stock, cryptocurrency, forex, paper/live trading, etc.|
 |[CCXT](https://github.com/ccxt/ccxt) | 25.4k | :star::star::star::star::star: | A JavaScript/Python/PHP crypto trading API |
 |[StockSharp](https://github.com/StockSharp/StockSharp)| 5.1k | :star::star::star::star: | Algorithmic trading for stock markets, forex, bitcoins and options |
 |[TuShare](https://github.com/waditu/tushare)| 11.7k | :star::star::star: | Crawling historical data of CN stocks|
@@ -56,7 +56,7 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
-|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 5.9k | :star::star::star::star::star: | The first open-source project for financial reinforcement learning, provide full pipeline of using DRL in financial tasks|
+|[FinRL](https://github.com/AI4Finance-LLC/FinRL-Library)| 6.5k | :star::star::star::star::star: | The first open-source project for financial reinforcement learning, provide full pipeline of using DRL in financial tasks|
 |[ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL)| 2.2k | :star::star::star::star::star: | Scalable and elastic deep reinforcement learning library using PyTorch|
 |[tensortrade](https://github.com/tensortrade-org/tensortrade) | 3.9k | :star::star::star::star: | An RL framework for training, evaluating, and deploying robust trading agents|
 |[FinRL-Live-Trading](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)| 1.2k | :star::star::star::star: | Ensemble strategy and live trading using DRL|
