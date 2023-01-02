@@ -1,6 +1,6 @@
 # Awesome AI4Finance
 
-## Criteria of Selection and Evaluation
+## Selection Criteria
 
    Well, it is a byproduct from our weekly meetings, may be useful for newcomers.
    
