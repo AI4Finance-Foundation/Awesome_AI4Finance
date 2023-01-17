@@ -4,7 +4,7 @@
     
    A good survey paper: 
 
-Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement learning in finance." arXiv preprint arXiv:2112.04553 (2021).
+Hambly, Ben, Renyuan Xu, and Huining Yang. "[Recent advances in reinforcement learning in finance.](https://arxiv.org/abs/2112.04553)" *arXiv preprint arXiv:2112.04553, 2021*.
 
 ## Selection Criteria
 
