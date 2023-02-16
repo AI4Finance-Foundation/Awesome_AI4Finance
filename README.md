@@ -1,6 +1,9 @@
 # Awesome AI4Finance
 
-   [FinRL Blogs](https://github.com/AI4Finance-Foundation/FinRL-Blogs) 
+    
+  [ChatGPT for FinTech](https://github.com/AI4Finance-Foundation/ChatGPT-for-FinTech)
+
+  [FinRL Blogs](https://github.com/AI4Finance-Foundation/FinRL-Blogs) 
     
    A good survey paper: 
 
