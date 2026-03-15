@@ -111,6 +111,7 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 |----|----|----|----|
 |[QuantConnect](https://github.com/QuantConnect/Lean) | 7.0k | :star::star::star::star: | An algorithmic trading engine built for easy strategy research, backtesting and live trading|
 |[HFT-LOB-Trading-ML](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)| 1.3k | :star::star::star: | Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data|
+|[FinClaw](https://github.com/NeuZhou/finclaw)| New | :star::star::star: | AI-powered financial intelligence engine with 8 master strategies, multi-agent architecture, US/CN/HK markets. +29.1% annual alpha.|
 
 ### Rendering Tools
 | Project | Stars | Recommendation | Description |
