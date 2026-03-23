@@ -119,6 +119,12 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 |[mplfinance](https://github.com/matplotlib/mplfinance) | 2.5k | :star::star::star: | Using Matplotlib to visualize financial data and market data |
 | [Rendering using Matplotlib and Gym](https://towardsdatascience.com/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4) | - | :star::star::star: | A blog written by the main contributor of TensorTrading |
 
+### Education & Research Resources
+
+|  Project | Stars | Recommendation | Description |
+|----|----|----|----|
+|[KeepRule](https://keeprule.com)| :heavy_minus_sign: | :star::star::star: | Free investment principles knowledge base with 500+ rules from Buffett, Munger, Graham and more, organized by investing scenarios|
+
 ______________________
 
 
