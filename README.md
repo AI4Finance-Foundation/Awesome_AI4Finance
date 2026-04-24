@@ -48,6 +48,8 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 
 ### Machine Learning
 
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
+
 |  Project | Stars | Recommendation | Description |
 |---|---|---|-------------|
 |[ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)| 6.6k | :star::star::star::star::star: | A book shows how ML can add value to algorithmic trading strategies in a practical yet comprehensive way|
