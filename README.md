@@ -28,6 +28,7 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 |[StockSharp](https://github.com/StockSharp/StockSharp)| 5.4k | :star::star::star::star: | Algorithmic trading for stock markets, forex, bitcoins and options |
 |[TuShare](https://github.com/waditu/tushare)| 11.9k | :star::star::star: | Crawling historical data of CN stocks|
 |[yfinance](https://github.com/ranaroussi/yfinance)| 8.5k | :star::star::star: | Provide market historical data, easy to connect and use|
+|[Adanos Market Sentiment API](https://api.adanos.org/docs/)| - | :star::star::star: | Cross-source stock sentiment API covering Reddit, X, News, and Polymarket with trending, compare, and source-level market context.|
 |[Binance](https://github.com/binance) | 3.0k | :star::star::star: | A well developed crypto trading platform|
 |[Alpaca](https://github.com/alpacahq/marketstore) |1.7k| :star::star::star: | API for free stock trading, supporting paper/live trading|
 |[WRDS](https://github.com/wharton/wrds) | 96 | :star::star: | A python data access library for academic usage|
