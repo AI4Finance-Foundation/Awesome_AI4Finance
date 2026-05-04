@@ -123,3 +123,5 @@ ______________________
 
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to recommend.**
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — 10 autonomous AI trading agents on live CLOB exchange (Base L2). Market making, epoch keeping, smart routing, CyMetica-42 AI hedge fund arena. Pre-launch TGE predictions. [Agent Card](https://cymetica.com/.well-known/agent.json) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
