@@ -92,6 +92,7 @@ Autonomous AI agents that can analyze markets, make trading decisions, and gener
 | [QuantaAlpha](https://github.com/QuantaAlpha/QuantaAlpha) | 1.0k ![Stars](https://img.shields.io/github/stars/QuantaAlpha/QuantaAlpha?style=flat-square) | LLM + evolutionary strategies framework for automatic alpha factor mining. |
 | [FinMem](https://github.com/pipiku915/FinMem-LLM-StockTrading) | 903 ![Stars](https://img.shields.io/github/stars/pipiku915/FinMem-LLM-StockTrading?style=flat-square) | LLM-based trading agent with layered memory (short/mid/long-term) for evolving market understanding. |
 | [QVeris](https://github.com/QVerisAI/qveris-agent-toolkit) | 230 ![Stars](https://img.shields.io/github/stars/QVerisAI/qveris-agent-toolkit?style=flat-square) | Capability routing network for AI agents to discover, inspect, and call 10,000+ real-world financial capabilities through one unified MCP protocol. |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | N/A | Zero-install MCP server for AI agent trust scoring on Solana. Verify agent wallet identity before x402 micropayments. Free tools: `score_agent`, `preflight_check`. |
 
 ---
 
