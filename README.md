@@ -272,6 +272,7 @@ Tools for visualizing market data, trading activity, and agent performance.
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [NumPy](https://github.com/numpy/numpy) | 32.1k ![Stars](https://img.shields.io/github/stars/numpy/numpy?style=flat-square) | The fundamental package for scientific computing with Python. Foundation for most quantitative finance libraries. |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | N/A | Zero-install MCP server for AI agent trust scoring on Solana. Verify agent wallet identity before x402 micropayments. Free tools: `score_agent`, `preflight_check`. |
 | [Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/financial-services/) | - | Azure high-performance computing for financial services — risk simulation, pricing, and analytics. |
 
 ---
