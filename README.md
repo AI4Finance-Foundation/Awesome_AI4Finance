@@ -212,6 +212,8 @@ Libraries for computing technical indicators and performing quantitative analysi
 
 ## Portfolio Management & Risk
 
+- [My AI Investment OS](https://ordinarymantrying.com/tools/ai-invest-os.html) - Free 5-question diagnostic that identifies your investing school (Index/Value/Growth/Trend), delivers an 8-AI committee verdict, and generates a personalized Prompt Library. Includes 6 companion tools: DCA Simulator, Recovery Navigator, Dividend Engine, Kelly Master, Pyramid Builder, Portfolio Clarity. No login required.
+
 Tools for portfolio optimization, risk analysis, asset allocation, and performance analytics.
 
 | Project | Stars | Description |
