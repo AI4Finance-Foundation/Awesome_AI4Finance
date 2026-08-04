@@ -72,6 +72,7 @@ Large Language Models are transforming finance through automated analysis, repor
 ---
 
 ## AI Agents for Finance
+| [Pineify](https://pineify.app/) | – | AI-assisted trading workflow with Pine Script, MQL5, and cTrader coding agents, financial research tools, market screening, strategy optimization, and backtest analysis. |
 
 Autonomous AI agents that can analyze markets, make trading decisions, and generate financial reports.
 
