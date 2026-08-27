@@ -98,6 +98,7 @@ Autonomous AI agents that can analyze markets, make trading decisions, and gener
 | [NeuPortal](https://neuportal.ai) | – | AI forecasting-accountability lab. Every AI forecast is locked pre-event, Bitcoin-timestamped via OpenTimestamps, and Brier-scored in public against prediction markets across crypto, macro, and sports. Hosted, closed-source service. |
 
 ---
+| [Algorier](https://algorier.com) | – | Natural-language ("vibe trading") agent that turns a described trading idea into a generated, backtested and forward-tested algorithm and deploys it to the user's own broker account across forex, crypto, metals, indices, CFDs and equities; strategies can also be sold on its marketplace with the logic kept private from buyers. |
 
 ## Deep Reinforcement Learning
 
