@@ -171,6 +171,7 @@ Frameworks for algorithmic trading, strategy backtesting, and automated trading 
 
 ## Data Sources
 
+- [BDE Score](https://github.com/hbhqq9/bde-score) – Open-source multi-factor stock scoring API (0-100). Real-time analysis of 74 stocks across US/HK/A-Share markets with shields.io badges and GitHub Action.
 Tools and APIs for accessing financial market data — stocks, crypto, forex, and alternative data.
 
 | Project | Stars | Description |
