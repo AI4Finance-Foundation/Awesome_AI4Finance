@@ -198,6 +198,7 @@ Tools and APIs for accessing financial market data — stocks, crypto, forex, an
 | [0xArchive](https://0xarchive.io/) | – | Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs. |
 | [The Stall](https://github.com/thebrierfox/the-stall) | ![Stars](https://img.shields.io/github/stars/thebrierfox/the-stall?style=flat-square) | MCP server with 173 financial market data capabilities — stocks, ETFs, crypto, DeFi, options, SEC filings, earnings, analyst ratings, and macro indicators. Pay-per-call via x402 micropayments on Base; no API keys required. |
 | [AgentServices](https://agentservices.to) | ![Stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=flat-square) | 54-service x402-paid API platform for AI agents — crypto market data, onchain analytics, financial intelligence, and inference endpoints. MCP server with 37 tools. Pay-per-call via x402 on Base; no API keys required. |
+| [Market Brief](https://github.com/beepboop2025/market-brief) | ![Stars](https://img.shields.io/github/stars/beepboop2025/market-brief?style=flat-square) | Free browser app and Python helper for selected funding, capital-market, and liquidity observations, with source links, observation dates, and optional local baseline comparisons. |
 
 ---
 
