@@ -310,6 +310,7 @@ Key academic papers on AI in finance.
 - "[FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory](https://arxiv.org/abs/2311.13743)." *arXiv*, 2023. Novel memory architecture for LLM trading agents.
 - "[FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)." *arXiv*, 2023. Democratizing financial LLMs with a data-centric approach and accessible fine-tuning.
 - "[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://arxiv.org/abs/2412.20138)." *arXiv*, 2024.
+- "[CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets](https://arxiv.org/abs/2609.14205)." *ICDM 2026*. Cross-asset Kalman filtering with model predictive control for drawdown-aware trading. [Code](https://github.com/FanBroWell/CAST)
 
 ---
 
