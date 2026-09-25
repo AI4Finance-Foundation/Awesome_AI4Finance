@@ -199,6 +199,7 @@ Tools and APIs for accessing financial market data — stocks, crypto, forex, an
 | [The Stall](https://github.com/thebrierfox/the-stall) | ![Stars](https://img.shields.io/github/stars/thebrierfox/the-stall?style=flat-square) | MCP server with 173 financial market data capabilities — stocks, ETFs, crypto, DeFi, options, SEC filings, earnings, analyst ratings, and macro indicators. Pay-per-call via x402 micropayments on Base; no API keys required. |
 | [AgentServices](https://agentservices.to) | ![Stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=flat-square) | 54-service x402-paid API platform for AI agents — crypto market data, onchain analytics, financial intelligence, and inference endpoints. MCP server with 37 tools. Pay-per-call via x402 on Base; no API keys required. |
 | [S&P 500 Earnings Announcement Times](https://github.com/quant500trading/sp500-earnings-announcement-times) | ![Stars](https://img.shields.io/github/stars/quant500trading/sp500-earnings-announcement-times?style=flat-square) | 63,969 S&P 500 earnings announcements with the time of day, parsed from SEC 8-K item 2.02 filings, 2003-2026. CSV dataset released under CC0. |
+| [Eulerpool](https://eulerpool.com/financial-data-api) | – | Financial data API with 400+ endpoints: global equities and fundamentals, ETFs, insider trades, 13F, macro series from FRED/ECB/IMF/World Bank/OECD/BIS, crypto, FX and commodities. SDKs for Python, TypeScript, Go, Java, R, PHP, Rust and C++; hosted MCP server. Free tier 100k requests/month. |
 
 ---
 
