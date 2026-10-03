@@ -78,6 +78,7 @@ Autonomous AI agents that can analyze markets, make trading decisions, and gener
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [iPulse AI](https://ipulseai.com/) | – | Open Agentic Investment Research Platform with independent AI advisor reports, asset forecasts and ranked market discovery; evidence, risks and assumptions are inspectable. Hosted research software, with no trade execution. |
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 82.4k ![Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square) | Multi-agent LLM financial trading framework. Specialized agents (fundamentals, sentiment, technical) debate and reach consensus on trades. |
 | [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 59.7k ![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square) | Multi-agent AI hedge fund simulator with 18 agents modeled after legendary investors (Buffett, Munger, etc.) plus specialist agents. |
 | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 40.0k ![Stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=flat-square) | LLM-powered A/H/US stock analysis system. Multi-source market data + real-time news + LLM decision dashboard + multi-channel push notifications. |
