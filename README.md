@@ -206,6 +206,7 @@ Tools and APIs for accessing financial market data — stocks, crypto, forex, an
 | [FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=Awesome_AI4Finance&utm_content=readme) | – | Official-source macroeconomic releases for 22 currencies, each stamped with its publication time, plus release calendars, central-bank decisions, COT positioning and FX rates over REST and a hosted MCP server. USD data needs no API key. |
 | [Equibles](https://equibles.com/mcp) | – | US stock market data over a hosted MCP server and a REST API: SEC filings with full-text search, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and option chains. Works with ChatGPT and Claude over OAuth. Free tier 100 requests/day. |
 | [Aperiodic](https://aperiodic.io/) | – | Point-in-time crypto microstructure, liquidity and order-flow metrics (220 metrics, 19 datasets) and raw trades, quotes and derivatives data for perpetuals on venues including Binance, OKX and Hyperliquid, as parquet via CLI, REST API and Python SDK. A preview of every dataset needs no API key. |
+| [Fincept MCP](https://docs.fincept.in) | – | Hosted MCP server for Fincept Terminal over Streamable HTTP with OAuth sign-in: quotes, candles, option chains, futures curves, fundamentals, economic series, SEC filings, news, backtests, paper trading and 15 quant engines (statistics, forecasting, GARCH volatility, portfolio optimisation, derivatives pricing). Requires a paid plan. |
 
 ---
 
