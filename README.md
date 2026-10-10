@@ -208,6 +208,8 @@ Tools and APIs for accessing financial market data — stocks, crypto, forex, an
 | [Aperiodic](https://aperiodic.io/) | – | Point-in-time crypto microstructure, liquidity and order-flow metrics (220 metrics, 19 datasets) and raw trades, quotes and derivatives data for perpetuals on venues including Binance, OKX and Hyperliquid, as parquet via CLI, REST API and Python SDK. A preview of every dataset needs no API key. |
 | [Fincept MCP](https://docs.fincept.in) | – | Hosted MCP server for Fincept Terminal over Streamable HTTP with OAuth sign-in: quotes, candles, option chains, futures curves, fundamentals, economic series, SEC filings, news, backtests, paper trading and 15 quant engines (statistics, forecasting, GARCH volatility, portfolio optimisation, derivatives pricing). Requires a paid plan. |
 | [Tapetide](https://tapetide.com/mcp) | – | Indian stock market data for about 8,200 NSE and BSE listed companies over a hosted MCP server: quotes, quarterly financials, shareholding, a 326-ratio screener, FII/DII flows, option chains and company filings. Works with Claude, ChatGPT and Cursor over OAuth or a personal token; open-source MIT client on [GitHub](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp). Free plan included. |
+| [Financial Evidence](https://github.com/beepboop2025/financial-evidence-skills) | ![Stars](https://img.shields.io/github/stars/beepboop2025/financial-evidence-skills?style=flat-square) | Read-only MCP and Python router for public institution, money-market, and market-liquidity research, retaining source links, retrieval times, and unavailable states. Public reads require no API key. |
+
 
 ---
 
