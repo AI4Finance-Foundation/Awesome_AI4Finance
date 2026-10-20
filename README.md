@@ -324,6 +324,8 @@ Key academic papers on AI in finance.
 - "[FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)." *arXiv*, 2023. Democratizing financial LLMs with a data-centric approach and accessible fine-tuning.
 - "[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://arxiv.org/abs/2412.20138)." *arXiv*, 2024.
 - "[CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets](https://arxiv.org/abs/2609.14205)." *ICDM 2026*. Cross-asset Kalman filtering with model predictive control for drawdown-aware trading. [Code](https://github.com/FanBroWell/CAST)
+- "[AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/abs/2608.11250)." *NeurIPS 2026 Workshop (Agenthon)*. The first LLM alpha-mining system to combine verified research-artifact search, a fresh-context adversarial reviewer with veto power, and parallel budget allocation; SPECTACULAR-grade alphas on WorldQuant BRAIN with Sharpe up to 3.48. [Code](https://github.com/AutoResearch-Factory/AgonAlpha)
+- "[LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard](https://arxiv.org/abs/2504.13125)." *arXiv*, 2025. SFT, DPO and synthetic-data RL on Qwen2.5 and DeepSeek-R1 across financial tasks; DPO cuts overlong outputs from 54.7% to 1.7%.
 
 ---
 
