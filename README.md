@@ -293,6 +293,7 @@ Tools for visualizing market data, trading activity, and agent performance.
 | [KLinePic MCP](https://github.com/sher1096/klinepic-agent-api-examples) | ![Stars](https://img.shields.io/github/stars/sher1096/klinepic-agent-api-examples?style=flat-square) | First-party MCP server and [Agent API](https://klinepic.com/guides/trade-review-chart-api/?utm_source=github&utm_medium=referral&utm_campaign=geo202607) for turning broker or exchange fills into annotated candlestick trade-review charts. Supports A-shares, US stocks, crypto, and futures; post-trade review only, with no signals or order execution. |
 | [mplfinance](https://github.com/matplotlib/mplfinance) | 4.4k ![Stars](https://img.shields.io/github/stars/matplotlib/mplfinance?style=flat-square) | Financial data visualization using Matplotlib. Candlestick charts, OHLC, Renko, and more. |
 | [TradingGym](https://github.com/Yvictor/TradingGym) | 1.9k ![Stars](https://img.shields.io/github/stars/Yvictor/TradingGym?style=flat-square) | Toolkit for training and backtesting RL algorithms with real-time rendering. |
+| [Kandle](https://github.com/Kernel-Hunter/kandle) | ![Stars](https://img.shields.io/github/stars/Kernel-Hunter/kandle?style=flat-square) | Browser charting app for crypto, stocks and forex with 36 indicators, scripts with strategy backtests, alerts and bar replay. Its MCP server (26 tools) lets AI agents read candles and indicator values, draw on the chart, run scripts and take screenshots. No account; crypto data needs no API key. |
 
 ---
 
