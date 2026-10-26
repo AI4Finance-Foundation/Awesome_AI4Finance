@@ -138,6 +138,7 @@ General machine learning approaches for financial prediction, alpha generation, 
 | [AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) | 1.7k ![Stars](https://img.shields.io/github/stars/ScottfreeLLC/AlphaPy?style=flat-square) | ML framework for both speculators and data scientists. Automated feature engineering and model selection. |
 | [fin-ml](https://github.com/tatsath/fin-ml) | 1.2k ![Stars](https://img.shields.io/github/stars/tatsath/fin-ml?style=flat-square) | Code for case studies in *Machine Learning and Data Science Blueprints for Finance*. |
 | [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) | 38 ![Stars](https://img.shields.io/github/stars/initial-d/ml-quant-trading?style=flat-square) | Paper-backed PyTorch research stack for mask-aware multi-factor modeling, ML baselines, portfolio optimization, and vectorized backtesting. |
+| [predixlab-signals](https://github.com/predixlab/predixlab-signals) | ![Stars](https://img.shields.io/github/stars/predixlab/predixlab-signals?style=flat-square) | Daily US stock signals from LightGBM models (Pivot turning-point events and AlphaRank cross-sectional rankings) with expanding-window walk-forward backtests. Open source (Apache-2.0); market data is not included. |
 
 ---
 
