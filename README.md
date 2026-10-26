@@ -76,6 +76,8 @@ Large Language Models are transforming finance through automated analysis, repor
 
 Autonomous AI agents that can analyze markets, make trading decisions, and generate financial reports.
 
+- [TradingAgents vs TradingAgents-CN vs Vibe-Trading](https://aiquantnav.com/en/compare/tradingagents-vs-tradingagents-cn-vs-vibe-trading) - Side-by-side comparison of open-source LLM multi-agent trading frameworks.
+
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [iPulse AI](https://ipulseai.com/) | – | Open Agentic Investment Research Platform with independent AI advisor reports, asset forecasts and ranked market discovery; evidence, risks and assumptions are inspectable. Hosted research software, with no trade execution. |
