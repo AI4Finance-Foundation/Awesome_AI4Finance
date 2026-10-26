@@ -215,6 +215,7 @@ Tools and APIs for accessing financial market data — stocks, crypto, forex, an
 | [Edgrapi](https://edgrapi.com) | – | US government and SEC data as JSON over REST and a hosted MCP server: SEC EDGAR insider Form 4 trades, 8-K events, 13F holdings, 13D/G stakes and XBRL fundamentals, House STOCK Act congressional trades, plus SAM.gov contract opportunities, USAspending awards and Grants.gov grants. OAuth or API key; 50 free credits to start, no card. |
 | [Ryufin](https://ryufin.com/developers) | – | Free US stock research from SEC EDGAR filings for 3,000+ listed companies, as a website and a hosted MCP server (Streamable HTTP at `https://ryufin.com/mcp`): five plain answers per stock (business quality, safety, valuation, growth, market) with the checks and filing dates behind them, reported financial series, 8-K events and the answers that changed in the latest nightly run. No account and no API key; 60 requests a minute per address. |
 | [EDGAR Supply Chain](https://github.com/GerritPro/edgar-supply-chain) | ![Stars](https://img.shields.io/github/stars/GerritPro/edgar-supply-chain?style=flat-square) | Major customers that 3,049 US-listed companies disclose in their latest 10-K, 20-F or 40-F (the ASC 280 10% customer rule), with the share of revenue and a link to the filing, plus a 322-edge supplier-customer graph between listed companies. CSV and JSON under CC BY 4.0; MIT-licensed Python extractor over XBRL tags, tables and filing text. |
+| [SiftingIO](https://sifting.io/product/stocks) | – | U.S. stock snapshots, historical OHLCV and SEC fundamentals over REST, with live WebSocket updates. Python, TypeScript and Go SDKs plus an MCP connector for research workflows. Free API-key plan; usage limits apply. |
 
 
 ---
@@ -367,3 +368,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Feedback**: If you have any ideas or want content added to this list, feel free to [open an issue](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance/issues) or [submit a PR](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance/pulls).
 - [BDE Score™](https://github.com/hbhqq9/bde-score) - AI-Powered Multi-Market Stock Analysis — transparent multi-factor scoring for 73 stocks across US, HK, and A-share markets. EU AI Act Art.50 compliant.
+
