@@ -173,6 +173,7 @@ Frameworks for algorithmic trading, strategy backtesting, and automated trading 
 | [Lumibot](https://github.com/Lumiwealth/lumibot) | 1.6k ![Stars](https://img.shields.io/github/stars/Lumiwealth/lumibot?style=flat-square) | Backtestable AI trading agents for stocks, options, crypto, futures, and forex with real broker integration. |
 | [AutoTrader](https://github.com/kieran-mackle/AutoTrader) | 1.3k ![Stars](https://img.shields.io/github/stars/kieran-mackle/AutoTrader?style=flat-square) | Python-based platform for development, optimization, and deployment of automated trading systems. |
 | [Funcat](https://github.com/cedricporter/funcat) | 1.0k ![Stars](https://img.shields.io/github/stars/cedricporter/funcat?style=flat-square) | Ports Tongdaxin/Tonghuashun financial formula syntax to Python for technical analysis (e.g., `MA(C,5)`). |
+| [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant) | ![Stars](https://img.shields.io/github/stars/0xArchiveIO/0xarchive-quant?style=flat-square) | Hyperliquid perpetuals backtesting with a Rust engine, Python strategies, funding and trading costs, and a sealed-holdout research workflow. |
 
 ---
 
