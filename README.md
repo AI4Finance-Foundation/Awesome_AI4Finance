@@ -182,6 +182,7 @@ Tools and APIs for accessing financial market data — stocks, crypto, forex, an
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [Lava](https://github.com/dustinliang666-blip/lava-mcp) | – | Read-only A-share stock & concept-board news-flow heat via remote MCP/REST/Skill. Endpoint: https://lava.ai-dolphin.com/subscribe/v1/mcp · [Docs](https://lava.ai-dolphin.com/subscribe/docs) |
 | [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal) | 68.5k ![Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=flat-square) | Open-source investment research platform. Access stock, crypto, forex, and macro data with built-in analysis tools. |
 | [CCXT](https://github.com/ccxt/ccxt) | 42.8k ![Stars](https://img.shields.io/github/stars/ccxt/ccxt?style=flat-square) | Unified JavaScript/Python/PHP library for 100+ cryptocurrency exchange APIs. Trading and market data. |
 | [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 25.1k ![Stars](https://img.shields.io/github/stars/Fincept-Corporation/FinceptTerminal?style=flat-square) | Modern finance terminal with advanced market analytics, investment research, and economic data tools for interactive exploration. |
