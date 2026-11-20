@@ -80,6 +80,7 @@ Autonomous AI agents that can analyze markets, make trading decisions, and gener
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [DDScore](https://www.ddscore.ai/) | – | Hosted AI-assisted first-pass due diligence for private companies. Cross-checks company documents against public sources and reports evidence-linked findings and follow-up questions. |
 | [iPulse AI](https://ipulseai.com/) | – | Open Agentic Investment Research Platform with independent AI advisor reports, asset forecasts and ranked market discovery; evidence, risks and assumptions are inspectable. Hosted research software, with no trade execution. |
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 82.4k ![Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square) | Multi-agent LLM financial trading framework. Specialized agents (fundamentals, sentiment, technical) debate and reach consensus on trades. |
 | [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 59.7k ![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square) | Multi-agent AI hedge fund simulator with 18 agents modeled after legendary investors (Buffett, Munger, etc.) plus specialist agents. |
