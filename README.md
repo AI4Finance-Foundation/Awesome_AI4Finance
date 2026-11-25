@@ -180,6 +180,7 @@ Frameworks for algorithmic trading, strategy backtesting, and automated trading 
 | [Lumibot](https://github.com/Lumiwealth/lumibot) | 1.6k ![Stars](https://img.shields.io/github/stars/Lumiwealth/lumibot?style=flat-square) | Backtestable AI trading agents for stocks, options, crypto, futures, and forex with real broker integration. |
 | [AutoTrader](https://github.com/kieran-mackle/AutoTrader) | 1.3k ![Stars](https://img.shields.io/github/stars/kieran-mackle/AutoTrader?style=flat-square) | Python-based platform for development, optimization, and deployment of automated trading systems. |
 | [Funcat](https://github.com/cedricporter/funcat) | 1.0k ![Stars](https://img.shields.io/github/stars/cedricporter/funcat?style=flat-square) | Ports Tongdaxin/Tonghuashun financial formula syntax to Python for technical analysis (e.g., `MA(C,5)`). |
+| [vlab](https://github.com/aazh2026/vlab) | ![Stars](https://img.shields.io/github/stars/aazh2026/vlab?style=flat-square) | Zero-dependency multi-asset allocation backtesting lab that separates an investable-reality window from an index-proxy long window, refuses to let unlisted assets enter early, and pins four historical engine bugs with dedicated regression tests. |
 
 ---
 
