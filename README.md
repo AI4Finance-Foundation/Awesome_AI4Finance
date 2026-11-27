@@ -180,6 +180,7 @@ Frameworks for algorithmic trading, strategy backtesting, and automated trading 
 | [Lumibot](https://github.com/Lumiwealth/lumibot) | 1.6k ![Stars](https://img.shields.io/github/stars/Lumiwealth/lumibot?style=flat-square) | Backtestable AI trading agents for stocks, options, crypto, futures, and forex with real broker integration. |
 | [AutoTrader](https://github.com/kieran-mackle/AutoTrader) | 1.3k ![Stars](https://img.shields.io/github/stars/kieran-mackle/AutoTrader?style=flat-square) | Python-based platform for development, optimization, and deployment of automated trading systems. |
 | [Funcat](https://github.com/cedricporter/funcat) | 1.0k ![Stars](https://img.shields.io/github/stars/cedricporter/funcat?style=flat-square) | Ports Tongdaxin/Tonghuashun financial formula syntax to Python for technical analysis (e.g., `MA(C,5)`). |
+| [feraterra-quant-bots](https://github.com/FeraTerra/feraterra-quant-bots) | ![Stars](https://img.shields.io/github/stars/FeraTerra/feraterra-quant-bots?style=flat-square) | Open-source Python market-making quoter (`mark_peg`, inventory skew, rolling MMP), zero-capital atomic flash-arbitrage and liquidation searcher, TradingView webhook relay, and VeighNa/Freqtrade/NautilusTrader execution gateways with cryptographic solvency benchmarks. |
 
 ---
 
